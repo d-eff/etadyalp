@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "tasks": [{
+          "label": "Compile App",
+          "command": "pdc",
+          "args": ["src", "dist/game.pdx"],
+          "type": "shell"
+  }]
+}
