@@ -1,9 +1,7 @@
 a playdate project baseline
 
-first time setup:
-install the playdate sdk
-add PLAYDATE_SDK_PATH to your shell config
-  (on osx defaults to /Users/<you>/Developer/PlaydateSDK)
-install Extension: Playdate by Orta
-edit the library path in .vscode/settings.json
-
+**first time setup:** 
+1. install the playdate sdk 
+2. add PLAYDATE_SDK_PATH to your shell config (on osx defaults to /Users//Developer/PlaydateSDK) 
+3. install Extension: Playdate by Orta 
+4. edit the library path in .vscode/settings.json
